@@ -1,2 +1,2 @@
 # bay20
-awesomr
+awesome
